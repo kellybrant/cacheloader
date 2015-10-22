@@ -6,3 +6,16 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+
+.project
+.classpath
+.settings/
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+
