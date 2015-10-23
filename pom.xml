@@ -51,7 +51,7 @@
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
-            <version>2.7.3</version>
+            <version>${jedis.version}</version>
         </dependency>
         <!-- ······································································· jUnit -->
         <dependency>
