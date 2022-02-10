@@ -18,7 +18,7 @@
         <jedis.version>2.7.3</jedis.version>
         <junit.version>4.13.1</junit.version>
         <log4j.version>2.13.2</log4j.version>
-        <postgresql.version>9.4-1204-jdbc42</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
         <!-- ····································································· Plugins -->
         <maven-compiler-plugin.version>3.2</maven-compiler-plugin.version>
         <maven-dependency-plugin.version>2.9</maven-dependency-plugin.version>
